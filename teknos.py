@@ -35,8 +35,8 @@ Labda.shape("circle")
 Labda.color("yellow")
 Labda.penup()
 Labda.goto(0,0)
-Labda.változásX = 0.2
-Labda.változásY = 0.2
+Labda.változásX = 0.4
+Labda.változásY = 0.4
 
 # Pontszám
 
